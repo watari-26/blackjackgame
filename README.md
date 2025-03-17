@@ -1,5 +1,5 @@
 🃏 Blackjack Game
-A simple Blackjack game built using HTML, CSS, and JavaScript. The objective is to get as close to 21 as possible without exceeding it!
+A simple Blackjack game built using HTML, CSS, and JavaScript. The objective is to get as close to 21 without exceeding it!
 
 🎯 Objective
 If the sum of your cards equals 21, you win!
@@ -21,16 +21,9 @@ If you exceed 21, you lose chips.
 Keep playing to increase your score!
 🛠️ Installation
 1. Clone the Repository
-bash
-Copy
-Edit
-git clone https://github.com/your-username/blackjack-game.git
 2. Open the Project
 Open index.html in your browser to play the game.
 📁 Project Structure
-bash
-Copy
-Edit
 📂 blackjack-game
 ├── index.html      # Main HTML file
 ├── index.css       # Styling file
@@ -41,7 +34,7 @@ Edit
 
 Face cards (Jack, Queen, King) are valued at 10.
 Ace can be 1 or 11, depending on which is more beneficial.
-Game state is tracked using isAlive and hasBlackJack flags.
+The game state is tracked using isAlive and hasBlackJack flags.
 Chips increase on a win and decrease on a loss.
 🌟 Features
 ✔️ Simple UI with clean CSS styling
@@ -51,7 +44,7 @@ Chips increase on a win and decrease on a loss.
 
 🚧 Future Enhancements
 🎴 Add card images
-💰 Implement betting system
+💰 Implement a betting system
 🧠 Improve dealer AI
 👥 Add multiplayer support
 💡 Contributing
