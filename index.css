@@ -1,0 +1,33 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url("HD-wallpaper-two-aces-poker-table-pair-of-aces-poker-concepts-poker-chips-casino.jpg");
+    background-size: cover;
+   
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
+h1 {
+    color: goldenrod;
+}
+
+#message-el {
+    font-style: italic;
+}
+button{
+    color: #016f32;
+    font-weight: bolder;
+    background-color: goldenrod;
+    border: none;
+    width: 150px;
+    
+    border-radius: 2px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+
+}
+
+
